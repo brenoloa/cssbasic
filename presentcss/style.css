@@ -1,0 +1,20 @@
+.cabecalho{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(212, 208, 208);
+}
+
+.img {
+    text-align: center;
+}
+
+.icons {
+    display: flex;
+    justify-content: center; /* Centraliza as imagens horizontalmente */
+    align-items: center; /* Alinha as imagens verticalmente */
+    gap: 15px; /* Espaçamento entre as imagens */
+}
+
+.icons img {
+    height: 50px; /* Ajuste o tamanho conforme necessário */
+}
